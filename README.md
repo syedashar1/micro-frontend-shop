@@ -7,8 +7,9 @@ An example eCommerce app Module Federation in a Full Site Federation configurati
 
 In these five directories; `addtocart`, `cart`, `home`, `pdp` and `server` run these commands:
 
-```sh
-yarn && yarn start
+```
+npm i 
+npm start
 ```
 
 In a different terminal window for each app.
